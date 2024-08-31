@@ -1,2 +1,2 @@
 # Numpy_classifier
-A simple machine learning model realized with only numpy(under construction)
+A simple linear-relu-linear neural network. synthetic data has two classes, each one has a gaussian distribution.
